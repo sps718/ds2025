@@ -51,3 +51,4 @@ seaborn
 scikit-learn
 statsmodels
 requests
+tensorflow
